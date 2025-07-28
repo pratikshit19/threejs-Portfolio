@@ -39,8 +39,9 @@ body {
   }
 
   .text-gray_gradient {
-    @apply bg-gradient-to-r from-[#BEC1CF] from-60% via-[#D5D8EA] via-60% to-[#D5D8EA] to-100% bg-clip-text text-transparent;
-  }
+  @apply bg-gradient-to-b from-[#D5D8EA] from-50% to-[#696b71] bg-clip-text text-transparent;
+}
+#696b71
 
   /* button component */
   .btn {
