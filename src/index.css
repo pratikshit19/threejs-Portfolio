@@ -39,9 +39,9 @@ body {
   }
 
   .text-gray_gradient {
-  @apply bg-gradient-to-b from-[#D5D8EA] from-50% to-[#005dd6] bg-clip-text text-transparent;
+  @apply bg-gradient-to-b from-[#85b6f6] from-50% to-[#005dd6] bg-clip-text text-transparent;
 }
-#696b71
+
 
   /* button component */
   .btn {
@@ -139,7 +139,7 @@ body {
   }
 
   .field-btn {
-    @apply bg-blue-900 px-5 py-2 min-h-12 rounded-lg shadow-black-200 shadow-2xl flex justify-center items-center text-lg text-white gap-3;
+    @apply bg-white px-5 py-2 min-h-12 rounded-lg shadow-black-200 shadow-2xl flex justify-center items-center text-lg text-black gap-3;
   }
 
   .field-btn_arrow {
